@@ -13,4 +13,9 @@ h1 {
 
 #two {
     color: brown;
+    font-size: 20px;
+}
+
+.adjust-font-size {
+    font-size: 15px;
 }
