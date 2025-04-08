@@ -25,3 +25,16 @@ h1 {
     font-weight: bold;
 }
 
+.inverted,
+.fancy {
+    font-family: Helvetica, "Times New Roman" sans-serif;
+    font-size: 15px;
+}
+.inverted {
+    background-color: black;
+    color: white;
+  }
+  
+  .fancy {
+    background-color: yellow;
+  }
