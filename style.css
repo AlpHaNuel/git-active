@@ -48,3 +48,11 @@ h1 {
     height: 200px;
     width: 100px;
 }
+
+.container .text {
+    background-color: yellow;
+    color: #E00000;
+    font-size: 20px;
+    text-align: center;
+  }
+  
